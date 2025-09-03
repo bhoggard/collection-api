@@ -1,0 +1,10 @@
+{
+  "debug.javascript.defaultRuntimeExecutable": {
+    "pwa-node": "/Users/barry/.local/share/mise/shims/node"
+  },
+  "python.defaultInterpreterPath": "/Users/barry/.local/share/mise/installs/python/3.13.7/bin/python",
+  "go.goroot": "/Users/barry/.local/share/mise/installs/go/1.25.0",
+  "go.alternateTools": {
+    "go": "/Users/barry/.local/share/mise/shims/go"
+  }
+}
